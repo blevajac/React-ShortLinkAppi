@@ -17,7 +17,7 @@ An Application for entering and tracking your own website visits.
 ***
 
 **Link to the application instance located on Heroku:**  
-
+https://short-link-blevajac.herokuapp.com/
 
 ***
 ### How to run the Application:
