@@ -1,11 +1,23 @@
+# Overview
+
+Andrew Mead's Courses on React.JS, Meteor and many more.
+Each project folder contains App-s developed with the help of the course material.
+
+## Courses:
+### Udemy - Full-Stack Web Apps with Meteor and React
+https://www.udemy.com/meteor-react/
+
+***
+
 # React - ShortLink App
 
 Reackt.JS + Meteor Application.  
 An Application for entering and tracking your own website visits.
 
 ***
+
 **Link to the application instance located on Heroku:**  
-##
+
 
 ***
 ### How to run the Application:
